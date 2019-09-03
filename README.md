@@ -7,7 +7,7 @@ This is a simple Spring RESTful project which connects to in-memory database.
 - delete an employee DELETE
 - update an employee PUT
 
-There have been unit tests already written for 'GET' and 'POSTS' operations but not for 'DELETE' and 'PUT'.
+There have been unit tests already written for 'GET' and 'POST' operations but not for 'DELETE' and 'PUT'.
 
 
 ## Requirements for development:
